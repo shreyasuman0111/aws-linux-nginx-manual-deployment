@@ -20,10 +20,4 @@ A manual, end-to-end deployment of an Nginx web server on **AWS EC2** designed t
 
 ## Verification
 * **Deployment Status:** Successfully verified via browser and system logs.
-* *Note: Instance decommissioned after successful deployment to optimize cloud costs.*
-
-### Browser Proof
-![Web Server Success](./web-success.png)
-
-### Terminal Proof
-![Nginx Service Status](./terminal-status.png)
+* *Note: Instance decommissioned after successful deployment to optimize cloud costs. Screenshots of successful deployment are included in the repository assets.*
