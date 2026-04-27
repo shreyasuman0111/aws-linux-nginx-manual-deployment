@@ -1,0 +1,1 @@
+# aws-linux-nginx-manual-deployment
